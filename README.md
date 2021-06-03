@@ -14,7 +14,9 @@ download HTCD dataset
 ## Quick start
 Make Edge Auxiliary Infromation
 ----------
+
 python detect_edge.py
 train
 ---------
+
 python train.py
