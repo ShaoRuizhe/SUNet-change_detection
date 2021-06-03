@@ -12,11 +12,7 @@ torchvision 0.2.1
 download HTCD dataset
 
 ## Quick start
-Make Edge Auxiliary Infromation
-----------
-
+### Make Edge Auxiliary Infromation
 python detect_edge.py
-train
----------
-
+### train
 python train.py
