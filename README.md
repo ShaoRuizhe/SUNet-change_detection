@@ -4,9 +4,9 @@ Implementation of paper SUNet: Change Detection for Heterogeneous Remote Sensing
 ## Abstract:
 
 ## Requirements：
-python 3.6
-pytorch 0.4.1
-torchvision 0.2.1
+python 3.6  
+pytorch 0.4.1  
+torchvision 0.2.1  
 
 ## Dataset
 download HTCD dataset
