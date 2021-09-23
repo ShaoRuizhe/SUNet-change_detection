@@ -9,8 +9,8 @@ torchvision 0.2.1
 
 ## Dataset
 download HTCD dataset
-link:https://pan.baidu.com/s/1UeQyWpijlihfk0D2fh_x3g 
-keyword:o1m7
+link：https://pan.baidu.com/s/1AkxikFjQVnESm0ecmmF5zg 
+keyword：iaz5
 
 ## Quick start
 ### Make Edge Auxiliary Infromation
