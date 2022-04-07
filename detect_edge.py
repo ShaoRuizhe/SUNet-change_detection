@@ -18,6 +18,8 @@ def detect_building_edge_uav():
     hough_threshold = 64
     hough_minLineLength = 16
     hough_maxLineGap = 3
+    hough_rho = 1
+    hough_theta = np.pi / 180
     image_names=os.listdir(data_path)
     for image_name in tqdm.tqdm(image_names):
         img=cv2.imread(data_path+image_name)
